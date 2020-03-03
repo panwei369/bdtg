@@ -1,0 +1,5 @@
+D:\大实训一\BaiDuTuiGuang\Model\bin\Debug\Model.dll
+D:\大实训一\BaiDuTuiGuang\Model\bin\Debug\Model.pdb
+D:\大实训一\BaiDuTuiGuang\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\大实训一\BaiDuTuiGuang\Model\obj\Debug\Model.dll
+D:\大实训一\BaiDuTuiGuang\Model\obj\Debug\Model.pdb

@@ -1,0 +1,10 @@
+D:\大实训一\BaiDuTuiGuang\BLL\bin\Debug\BLL.dll
+D:\大实训一\BaiDuTuiGuang\BLL\bin\Debug\BLL.pdb
+D:\大实训一\BaiDuTuiGuang\BLL\bin\Debug\DAL.dll
+D:\大实训一\BaiDuTuiGuang\BLL\bin\Debug\Model.dll
+D:\大实训一\BaiDuTuiGuang\BLL\bin\Debug\DAL.pdb
+D:\大实训一\BaiDuTuiGuang\BLL\bin\Debug\Model.pdb
+D:\大实训一\BaiDuTuiGuang\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\大实训一\BaiDuTuiGuang\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\大实训一\BaiDuTuiGuang\BLL\obj\Debug\BLL.dll
+D:\大实训一\BaiDuTuiGuang\BLL\obj\Debug\BLL.pdb

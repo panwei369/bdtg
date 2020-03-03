@@ -1,0 +1,8 @@
+D:\大实训一\BaiDuTuiGuang\DAL\bin\Debug\DAL.dll
+D:\大实训一\BaiDuTuiGuang\DAL\bin\Debug\DAL.pdb
+D:\大实训一\BaiDuTuiGuang\DAL\bin\Debug\Model.dll
+D:\大实训一\BaiDuTuiGuang\DAL\bin\Debug\Model.pdb
+D:\大实训一\BaiDuTuiGuang\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\大实训一\BaiDuTuiGuang\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\大实训一\BaiDuTuiGuang\DAL\obj\Debug\DAL.dll
+D:\大实训一\BaiDuTuiGuang\DAL\obj\Debug\DAL.pdb
